@@ -1,4 +1,4 @@
-# DataCenter Enviroment 2B
+# DataCenter Enviroment 2A
 
 To use this module Please go to (https://github.com/waleedrady/AWS_Cloud_DC_Environment_2A)
 
